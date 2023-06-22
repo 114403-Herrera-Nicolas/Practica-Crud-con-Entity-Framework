@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iIOhB1SVGfW6z+lDX6PPeY3B+2n14X1HAYbioFXRQt/b14o+GBXaOENVawUuJb7chbLIB8CWEpnukUatTyS45A==",
+  "dgSpecHash": "Z7QOdTqQ0dnLIvoEBLD3KKzZdVR9+AAd8UhdvGEXNdvUVeYrVMsYPuvmDFJVWYu3ePjXbdCUcZOMX3wjIg9f9w==",
   "success": true,
-  "projectFilePath": "D:\\visual studio 2022\\ClubNautico\\ClubNautico.csproj",
+  "projectFilePath": "D:\\tecnicaturaUTN\\programacionUTN\\3er Cuatrimestre\\Practica Club Nautica\\ClubNautico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolas herrera\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Nicolas herrera\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

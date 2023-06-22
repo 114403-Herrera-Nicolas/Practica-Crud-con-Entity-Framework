@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio 2022\\ClubNautico\\ClubNautico.csproj": {}
+    "D:\\tecnicaturaUTN\\programacionUTN\\3er Cuatrimestre\\Practica Club Nautica\\ClubNautico.csproj": {}
   },
   "projects": {
-    "D:\\visual studio 2022\\ClubNautico\\ClubNautico.csproj": {
+    "D:\\tecnicaturaUTN\\programacionUTN\\3er Cuatrimestre\\Practica Club Nautica\\ClubNautico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio 2022\\ClubNautico\\ClubNautico.csproj",
+        "projectUniqueName": "D:\\tecnicaturaUTN\\programacionUTN\\3er Cuatrimestre\\Practica Club Nautica\\ClubNautico.csproj",
         "projectName": "ClubNautico",
-        "projectPath": "D:\\visual studio 2022\\ClubNautico\\ClubNautico.csproj",
+        "projectPath": "D:\\tecnicaturaUTN\\programacionUTN\\3er Cuatrimestre\\Practica Club Nautica\\ClubNautico.csproj",
         "packagesPath": "C:\\Users\\Nicolas herrera\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio 2022\\ClubNautico\\obj\\",
+        "outputPath": "D:\\tecnicaturaUTN\\programacionUTN\\3er Cuatrimestre\\Practica Club Nautica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicolas herrera\\AppData\\Roaming\\NuGet\\NuGet.Config",

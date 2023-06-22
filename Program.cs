@@ -4,6 +4,7 @@ using ClubNautico.Data;
 using FluentValidation.AspNetCore;
 using MediatR;
 using System.Reflection;
+//Scaffold-DbContext "cadena_de_conexión" Microsoft.EntityFrameworkCore.SqlServer -OutputDir NombreDirectorioSalida
 
 var builder = WebApplication.CreateBuilder(args);
 
